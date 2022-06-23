@@ -1,0 +1,15 @@
+# Meeting Log
+## 24-06-2022
+
+### Previous (complete/incomplete [  [x])
+ - [x] Start working on the C++ port of the gvxr json reader (currently in python)
+ - [x] Fix clas Diagrams
+### Planned
+- Actually make boost work properly (this is seriously slowing down the work now)
+- Start work on a 'prototype' scene in unreal engine to begin building classes and testing out the user facing side of the application
+
+
+### Notable Issues
+- Boost JSON seems to be causing a few problems, see commit: 
+
+
