@@ -3,7 +3,7 @@
 
 ### Disaster Strikes
 - HDD died the day before I was doing my backup, EVERYTHING is gone, unable to recover the data.
-- Honestly, This is terrible and ive not only lost work, but 2TB worth of data, to compound things, due to the lacking HDD, the google drive app decided to sync after the laptop booted without the HDD in (of its SSD boot drive) and wipe most of the data on my google drive - including other backups related to uni work - which I now cant get back.
+- Honestly, This is terrible and ive not only lost work, but 2TB worth of data, to compound things, due to the lacking HDD, the google drive app decided to sync after the laptop booted without the HDD in (off its SSD boot drive) and wipe most of the data on my google drive - including other backups related to uni work - which I now cant get back.
 ### Previous
 - No point puting any previous work here, its all gone, What I had done is this:
     - Finish level design in ue5
