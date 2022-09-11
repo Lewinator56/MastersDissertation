@@ -1,0 +1,36 @@
+# Dev Log
+## 26-08-2022
+Franck is back from holiday now!
+
+### Planned
+- Produce evaluation survey for validity testing the application.
+- Add error checking for sample setup.
+- Produce demonstration video.
+- Produce presentation for second marker.
+- Change implementation and desing section to 'Methods' and add a few more images to the background section.
+
+### Previous
+- Added background section to report
+    - X rays
+    - Rendering 
+        - raytracing (gvxr) 
+        - rasterization (ue5)
+    - gvxr
+    - lab-CT
+- Added implementation section to report
+    - Blueprint
+        - Interfaces (interaction with engine parts)
+        - Facade class for interaction with C++
+        - Level design (scanner)
+        - UI design
+    - C++
+        - Exposing methods to blueprint
+        - Interfacing from ue5 to gvxr
+        - gvxr library integration and requirements
+        - Implementation limitations
+        - Material struct and sample management
+        - Generating the output image and the 'lazy' method of displaying a reference gradient that updates with the render
+            - Check min/max corrected for processing type - possible improvements to help with speed
+    - Issues
+        - Inability to display the loaded mesh - limitation of unreal engine and far too much work to add now
+        - Something not quite right with the log scale (might fix)
